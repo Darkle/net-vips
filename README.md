@@ -36,9 +36,8 @@ which gives some more background.
 
 ## Supported platforms
 
-- .NET Framework (4.5.2 and higher)
-- .NET Core (.NETStandard 2.0 and higher on Windows, Linux and macOS)
-- Mono
+- .NET Framework 4.5.2 and higher
+- .NET 6.0 and higher
 
 ## Install
 
